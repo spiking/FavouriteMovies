@@ -340,7 +340,7 @@
                                     <constraint firstAttribute="width" constant="175" id="JRA-EJ-lW8"/>
                                     <constraint firstAttribute="height" constant="175" id="ema-IN-Mgy"/>
                                 </constraints>
-                                <state key="normal" image="add-new-image-btn-1"/>
+                                <state key="normal" image="add-new-image-btn"/>
                                 <connections>
                                     <action selector="addMovieImage:" destination="ddy-cE-b8I" eventType="touchUpInside" id="EFT-zx-MUK"/>
                                 </connections>
@@ -519,6 +519,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="add-new-image-btn" width="398" height="398"/>
         <image name="add-new-image-btn-1" width="398" height="398"/>
         <image name="addnewbutton-1" width="79" height="79"/>
         <image name="batman clip-1" width="308" height="308"/>
